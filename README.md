@@ -1,5 +1,5 @@
 # Asymmetrik-Challenge
-I decided to use Jave to create a Graphic User Interface
+I decided to use Jave to create a Graphic User Interface.  Please clone this repo and cd into it.
 From the main directory first run: javac Asymmetrik/*.java to compile the program.  Then run: java Asymmetrik/BusinessCardParser
 and a java window should pop up. The application works best when the window covers half the screen.
 Input business card information as it appears on the card.  
